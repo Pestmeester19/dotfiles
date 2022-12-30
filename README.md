@@ -1,2 +1,4 @@
 # dotfiles
-I use arch btw
+## new iteration
+
+Here will be my new dotfiles, soon™
